@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+run #!/usr/bin/env python3
 
 VERSION = '1.3.1'
 
